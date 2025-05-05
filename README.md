@@ -106,3 +106,8 @@ Below is an overview of the tasks accomplished in each part.
 - 🌐 **Deployability:** Wrap the model in a Flask API or Streamlit app for interactive testing.
 
 ---
+## 📬 Questions or Feedback?
+If you have any questions or need clarifications, feel free to contact me:
+
+📧 **deirmentz@ece.auth.gr**  
+📧 **ioannisdeirmentzoglou@gmail.com**

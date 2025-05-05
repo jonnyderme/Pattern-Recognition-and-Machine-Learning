@@ -1,4 +1,8 @@
 # 🧠 Pattern Recognition and Machine Learning Assignment (2024–2025)
+Assignment for the "Pattern Recognition and Machine Learning" Course  
+Faculty of Engineering, AUTh  
+School of Electrical and Computer Engineering  
+Electronics and Computers Department
 
 📚 *Course:* Pattern Recognition and Machine Learning  
 🏛️ *Faculty:* AUTh - School of Electrical and Computer Engineering  
@@ -7,7 +11,16 @@
 ---
 
 ## 🔍 Overview
-This repository contains our implementation for the **Pattern Recognition & Machine Learning** assignment for 2024. The project is divided into four parts (**A, B, C, and D**), covering classification methods, probabilistic models, and machine learning techniques.
+This repository contains our implementation for the **Pattern Recognition & Machine Learning** assignment for 2024. The project is divided into four parts (**A, B, C, and D**), covering classification methods, probabilistic models, and machine learning techniques.Each part is focused on different classification techniques using provided datasets. 
+Below is an overview of the tasks accomplished in each part.
+
+## 📚 Table of Contents
+- [Part A: Maximum Likelihood Classifier](#-part-a-maximum-likelihood-classifier)
+- [Part B: Bayesian Estimation Classifier](#-part-b-bayesian-estimation-classifier)
+- [Part C: Decision Tree & Random Forest (Iris Dataset)](#-part-c-decision-tree--random-forest-iris-dataset)
+- [Part D: Custom Classification Model for Large Dataset](#-part-d-custom-classification-model-for-large-dataset)
+- [Repository Structure](#-repository-structure)
+- [Suggestions for Further Improvements](#-suggestions-for-further-improvements)
 
 
 ## 📁 Repository Structure
@@ -18,7 +31,6 @@ This repository contains our implementation for the **Pattern Recognition & Mach
 ├── labels8.npy            # Predicted labels from Part D
 └── README.md              # This documentation
 ```
-
 ---
 
 ## 🧪 Assignment Breakdown
